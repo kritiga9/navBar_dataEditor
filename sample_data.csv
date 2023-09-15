@@ -1,0 +1,12 @@
+account,credit,debit,description
+4100 FOOD SALES,,2674,Item Sales
+2250 SALES TAX PAYABLE,,168,Sales Tax
+4300 DISCOUNTS - COUPONS,71,,Coupons
+4320 EMPLOYEE MEALS,3,,Employee Discount
+4310 MANAGERS COMP,7,,Manager Discount
+1115 CASH - XX,1924,,VISA
+1115 CASH - XX,68,,card
+1115 CASH - XX,226,,deposit bag 2
+1115 CASH - XX,497,,deposit bag 1
+1115 CASH - XX,7,,AM
+4320 EMPLOYEE MEALS,39,,Employee Discount
