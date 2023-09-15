@@ -20,7 +20,7 @@ menu_id = hc.nav_bar(
 )
 
 st.header("Journal entry editable DF")
-df = pd.read_csv("sample_data.csv")
+df = pd.read_csv("/data/in/tables/sample_data.csv")
 
 accounts = df["account"].unique().tolist()
 if menu_id == "RESTAURANT 1":
